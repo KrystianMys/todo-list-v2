@@ -17,9 +17,9 @@ import "@fontsource/orbitron";
 import "./App.css";
 
 const mockData: MockDataInfo[] = [
-  { id: 1, name: "Go to gym", completed: false, editBoxIsOpen: false },
-  { id: 2, name: "Walk with dog", completed: false, editBoxIsOpen: false },
-  { id: 3, name: "Learn how to climb in the mountains", completed: false, editBoxIsOpen: false },
+  { id: 1, name: "Go to the gym", completed: false, editBoxIsOpen: false },
+  { id: 2, name: "Walk with a dog", completed: false, editBoxIsOpen: false },
+  { id: 3, name: "Learn how to hike in the mountains", completed: false, editBoxIsOpen: false },
 ];
 
 const App = () => {

@@ -1,5 +1,6 @@
 {
-  "name": "todolist2",
+  "homepage": "https://krystianmys.github.io/todo-list-v2/",
+  "name": "todo-list-v2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
